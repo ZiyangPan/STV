@@ -1,8 +1,10 @@
+### Soft-Thresholded Varying Coefficient Model
+
 This is the code for the paper "Simultaneous selection and inference for varying coefficients with zero regions: a soft-thresholding approach".
 
 Citation: Yang, Y., Pan, Z., Kang, J., Brummett, C. & Li, Y. (2023) Simultaneous selection and inference for varying coefficients with zero regions: a soft-thresholding approach. *Biometrics*, 00, 1–14. https://doi.org/10.1111/biom.13900
 
-**Main script:**
+#### **Main script:**
 
 Follow "STV_example.R" to implement STV method.
 
@@ -14,7 +16,7 @@ Step 3. Estimation. Examples for estumation using STV method, finding turning po
 
 Step 4. Evaluation. We provide two datasets as the required inputs and then an example about bootstrap-based confidence intervals is shown here.
 
-**Additional files:**
+#### **Additional files:**
 
 "STV_updated.R" contains functions in need to simulate data, estimate parameters, and evaluate results.
 
