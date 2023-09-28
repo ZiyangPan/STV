@@ -10,7 +10,7 @@ Follow "STV_example.R" to implement STV method.
 
 Step 1. Load packages and functions. Paths need to be modified.
 
-Step 2. Simulation. An example for setting is provided; here, beta_1 is designed to have two turning points.
+Step 2. Simulation. An example for setting is provided; here, $\beta_1$ is designed to have two turning points.
 
 Step 3. Estimation. Examples for estumation using STV method, finding turning points, and bootstrapping are given. Note that the bootstrapping step may be time-consuming.
 
